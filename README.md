@@ -3,7 +3,7 @@
 A simple and interactive Age Calculator built using **JavaScript**, **Luxon**, and **Flatpickr**.
 
 ## Demo
-![demo screenshot](age-calculator-demo.png)
+![Demo Screenshot](age-calculator-demo.png)
 
 ---
 
